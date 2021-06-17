@@ -1,0 +1,38 @@
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\obj\Debug\Mr_J Vers 2.0.csproj.AssemblyReference.cache
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\obj\Debug\Mr_J_Vers_2._0.MainForm.resources
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\obj\Debug\Mr_J_Vers_2._0.Properties.Resources.resources
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\obj\Debug\Mr_J Vers 2.0.csproj.GenerateResource.cache
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\obj\Debug\Mr_J Vers 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\Mr_J Vers 2.0.exe.config
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\Mr_J Vers 2.0.exe
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\Mr_J Vers 2.0.pdb
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\obj\Debug\Mr_J Vers 2.0.exe
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\obj\Debug\Mr_J Vers 2.0.pdb
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\App_Data\Database.mdf
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\App_Data\Database_log.ldf
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\ServiceStack.Client.dll
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\ServiceStack.Common.dll
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\ServiceStack.dll
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\ServiceStack.Text.dll
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\SpotifyAPI.Web.dll
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\System.Buffers.dll
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\System.Memory.dll
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\ServiceStack.xml
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\ServiceStack.Client.xml
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\ServiceStack.Common.xml
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\ServiceStack.Text.xml
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\SpotifyAPI.Web.xml
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\System.Buffers.xml
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\System.Memory.xml
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jamey\source\repos\Mr_J Vers 2.0\obj\Debug\Mr_J Vers 2.0.csproj.CopyComplete
