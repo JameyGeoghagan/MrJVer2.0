@@ -52,22 +52,21 @@ namespace Mr_J_Vers_2._0
             try
             {
 
-                string constring = ConfigurationManager.ConnectionStrings["MyDatabase"].ConnectionString; 
-                SqlConnection con = new SqlConnection(constring);
-                con.Open();
-                SqlCommand sc = new SqlCommand();
-                sc.Connection = con;
-                sc.CommandText = "SELECT * FROM DefaultTable";
-                //sc.CommandType = CommandType.TableDirect;
-                SqlDataReader sdr = sc.ExecuteReader();
-                while (sdr.Read())
+                string constring = ConfigurationManager.ConnectionStrings["MyDatabase"].ConnectionString;
+                using (var con = new SqlConnection(constring))
+                using (var sc = new SqlCommand("SELECT * FROM DefaultTable", con))
                 {
-                    var Loadcmd = sdr["DefaultCommands"].ToString();
-                    Grammar commandgrammar = new Grammar(new GrammarBuilder(new Choices(Loadcmd)));
-                    speechRecognitionEngine.LoadGrammarAsync(commandgrammar);
+                    con.Open();
+                    //sc.CommandType = CommandType.TableDirect;
+                    SqlDataReader sdr = sc.ExecuteReader();
+                    while (sdr.Read())
+                    {
+                        var Loadcmd = sdr["DefaultCommands"].ToString();
+                        Grammar commandgrammar = new Grammar(new GrammarBuilder(new Choices(Loadcmd)));
+                        speechRecognitionEngine.LoadGrammarAsync(commandgrammar);
+                    }
+                    sdr.Close();
                 }
-                sdr.Close();
-                con.Close();
 
             }
             catch(Exception ex) {
